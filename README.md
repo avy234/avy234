@@ -3,7 +3,7 @@
 
 <h2>🎓 Education </h2>
 
-- Mapua University, Makati— B.S. Computer Science (AI specialization)
+- Mapúa University, Makati— B.S. Computer Science (AI specialization)
 
 
 <h2>👨‍💻 Projects:</h2>
