@@ -9,6 +9,8 @@
 <h2>👨‍💻 Projects:</h2>
 
   - [Python File Organizer](https://github.com/avy234/PythonFileOrganizer)
+  - [Face Recognition](https://github.com/avy234/FaceRecognition)
+
 
 
 <h2>📝 Certifications </h2>
