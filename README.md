@@ -1,4 +1,4 @@
-<h1>Hi, I'm Arvie! </h1>
+<h1>Hello, I'm Arvie! </h1>
 
 
 <h2>🎓 Education </h2>
