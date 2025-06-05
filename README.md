@@ -8,7 +8,6 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Python File Organizer </b>
   - [Python File Organizer](https://github.com/avy234/PythonFileOrganizer)
 
 
