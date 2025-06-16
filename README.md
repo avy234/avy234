@@ -19,7 +19,7 @@
 - [Cybersecurity Specialization (ISC2)](https://coursera.org/share/b7400169bf2b2ababc2cb5807eb47ad3)
 
 
-### 🧠 My TryHackMe Badge
+### 🧠 My TryHackMe Profile
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/alexismanuel2204.png)](https://tryhackme.com/p/alexismanuel2204)
 
