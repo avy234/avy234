@@ -22,7 +22,8 @@
 
 ### 🧠 My TryHackMe Profile
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/alexismanuel2204.png)](https://tryhackme.com/p/alexismanuel2204)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/alexismanuel2204.png?v=2)](https://tryhackme.com/p/alexismanuel2204)
+
 
 ## 🤳 Connect with me:
 
