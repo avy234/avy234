@@ -18,6 +18,7 @@
 - [Google Cybersecurity Professional](https://coursera.org/share/0373cf65654b9e6f1ed8c32fde239380)
 - [Cybersecurity Specialization (ISC2)](https://coursera.org/share/b7400169bf2b2ababc2cb5807eb47ad3)
 - [TryHackMe Pre Security Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-XBC1OSXHDH.pdf)
+- [TryHackMe Cyber Security 101 Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-TU9DSEYL52.pdf)
 
 
 ### 🧠 My TryHackMe Profile
