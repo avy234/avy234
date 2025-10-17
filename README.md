@@ -10,6 +10,7 @@
 
   - [Python File Organizer](https://github.com/avy234/PythonFileOrganizer)
   - [Face Recognition](https://github.com/avy234/FaceRecognition)
+  - [Mini Demo - Using QuickHash and 7-Zip for Hashing and Encryption](https://youtu.be/nhIGJ_AoXNE)
 
 
 
