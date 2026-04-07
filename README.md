@@ -21,6 +21,7 @@
 - [Cybersecurity Specialization (ISC2)](https://coursera.org/share/b7400169bf2b2ababc2cb5807eb47ad3)
 - [TryHackMe Pre Security Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-XBC1OSXHDH.pdf)
 - [TryHackMe Cyber Security 101 Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-TU9DSEYL52.pdf)
+- [Introduction to Cloud Certificate](https://courses.cognitiveclass.ai/certificates/90b55c0eedd7405fb670988ff8f764bc)
 
 
 ### 🧠 My TryHackMe Profile
